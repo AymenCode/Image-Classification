@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1683108861 source:e:\projects\in104 - carte de kohonen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"apprentissage.h"
+
+1569644518 e:\projects\in104 - carte de kohonen\apprentissage.h
+	<math.h>
+
+1569644488 source:e:\projects\in104 - carte de kohonen\apprentissage.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"apprentissage.h"
+
+1569644488 source:e:\projects\in104\apprentissage.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"apprentissage.h"
+
+1569644518 e:\projects\in104\apprentissage.h
+	<math.h>
+
+1683391712 source:e:\projects\in104\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"apprentissage.h"
+
+1569644488 source:c:\users\lenovo\onedrive\desktop\in104 - carte de kohonen\apprentissage.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"apprentissage.h"
+
+1569644518 c:\users\lenovo\onedrive\desktop\in104 - carte de kohonen\apprentissage.h
+	<math.h>
+
+1683401832 source:c:\users\lenovo\onedrive\desktop\in104 - carte de kohonen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"apprentissage.h"
+
+1683539519 source:c:\users\lenovo\onedrive\desktop\in104_projet\apprentissage.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"apprentissage.h"
+
+1683536689 c:\users\lenovo\onedrive\desktop\in104_projet\apprentissage.h
+	<math.h>
+
+1683536720 source:c:\users\lenovo\onedrive\desktop\in104_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"apprentissage.h"
+
